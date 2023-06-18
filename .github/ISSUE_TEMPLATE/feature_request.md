@@ -1,14 +1,20 @@
 ---
 name: Feature request
-about: Suggest an idea for OpenZeppelin Contracts
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-**🧐 Motivation**
-<!-- Is your feature request related to a specific problem? Is it just a crazy idea? Tell us about it! -->
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**📝 Details**
-<!-- Please describe your feature request in detail. -->
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-<!-- Make sure that you have reviewed the OpenZeppelin Contracts Contributor Guidelines. -->
-<!-- https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/CONTRIBUTING.md -->
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
