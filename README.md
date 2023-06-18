@@ -1,8 +1,7 @@
-> **Warning**
-> Version 5.0 is under active development. The code in this branch is not recommended for use.
-
-# <img src="logo.svg" alt="OpenZeppelin" height="40px">
-
+> **GMC CONTRACT**
+> 
+> Version 5.0 is under active development. The code in this branch is not recommended for use
+> 
 [![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
 [![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts)
 [![GitPOAPs](https://public-api.gitpoap.io/v1/repo/OpenZeppelin/openzeppelin-contracts/badge)](https://www.gitpoap.io/gh/OpenZeppelin/openzeppelin-contracts)
