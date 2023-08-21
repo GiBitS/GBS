@@ -1,4 +1,4 @@
-> **GMC CONTRACT**
+> ** GBS CONTRACT**
 > 
 > Version 5.0 is under active development. The code in this branch is not recommended for use
 > 
